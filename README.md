@@ -6,3 +6,6 @@ printf("Hello World");
 
 # Kotlin Language
 println("Hello, world!")
+
+# Java Language
+System.out.println("Hello World!");
