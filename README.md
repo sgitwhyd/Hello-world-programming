@@ -7,6 +7,9 @@ printf("Hello World");
 # Kotlin Language
 println("Hello, world!")
 
+# Java Language
+System.out.println("Hello World!");
+
 # Go Language
 fmt.Print("Hello world!")
 
