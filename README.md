@@ -9,3 +9,9 @@ println("Hello, world!")
 
 # Java Language
 System.out.println("Hello World!");
+
+# Go Language
+fmt.Print("Hello world!")
+
+# Python Language
+print("Hello World")
